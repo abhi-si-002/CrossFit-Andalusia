@@ -2,7 +2,7 @@
 
 import React from "react"
 import { Button } from "@/components/ui/button"
-import { Dumbbell, Users, Trophy, Clock } from "lucide-react"
+import { Dumbbell, Users, Trophy} from "lucide-react"
 
 export function ProgramsSection() {
   const programs = [
@@ -47,7 +47,7 @@ export function ProgramsSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">Our Programs</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Choose from our variety of programs designed to help you achieve your fitness goals, whether you're just starting out or training for competition.
+            Choose from our variety of programs designed to help you achieve your fitness goals, whether you are just starting out or training for competition.
           </p>
         </div>
 

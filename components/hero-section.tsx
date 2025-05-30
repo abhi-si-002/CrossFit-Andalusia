@@ -22,7 +22,7 @@ export function HeroSection() {
                 <span className="block text-orange-300">Transform Your Life</span>
               </h1>
               <p className="text-xl lg:text-2xl text-red-100 mt-6">
-                Join Andalusia's premier CrossFit community. Push your limits, achieve your goals, and become the best version of yourself.
+                Join Andalusias premier CrossFit community. Push your limits, achieve your goals, and become the best version of yourself.
               </p>
             </div>
 

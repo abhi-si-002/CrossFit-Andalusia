@@ -34,7 +34,7 @@ export function AboutSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">About CrossFit Andalusia</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Your premier CrossFit destination in Andalusia, AL. We're dedicated to helping you achieve your fitness goals through functional movements and high-intensity workouts.
+            Your premier CrossFit destination in Andalusia, AL. We are dedicated to helping you achieve your fitness goals through functional movements and high-intensity workouts.
           </p>
         </div>
 
@@ -45,7 +45,7 @@ export function AboutSection() {
               At CrossFit Andalusia, we believe in transforming lives through fitness. Our mission is to create a supportive community where members can push their limits, achieve their goals, and become the best versions of themselves.
             </p>
             <p className="text-gray-600 mb-6">
-              Whether you're new to CrossFit or an experienced athlete, our expert coaches will guide you through every workout, ensuring proper form and technique while helping you reach new heights in your fitness journey.
+              Whether you are new to CrossFit or an experienced athlete, our expert coaches will guide you through every workout, ensuring proper form and technique while helping you reach new heights in your fitness journey.
             </p>
             <div className="bg-red-100 p-6 rounded-lg">
               <p className="text-red-800 font-medium">

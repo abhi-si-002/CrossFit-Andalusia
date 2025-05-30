@@ -1,7 +1,7 @@
 "use client"
 
 import React from "react"
-import { Phone, MapPin, Mail } from "lucide-react"
+import { Phone, MapPin } from "lucide-react"
 
 export function Footer() {
   return (
@@ -11,7 +11,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-xl font-bold">CrossFit Andalusia</h3>
             <p className="text-gray-400">
-              Transform your life through fitness. Join Andalusia's premier CrossFit community.
+              Transform your life through fitness. Join Andalusias premier CrossFit community.
             </p>
           </div>
 

@@ -2,7 +2,7 @@
 
 import React from "react"
 import { Button } from "@/components/ui/button"
-import { Phone, MapPin, Mail, Clock } from "lucide-react"
+import { Phone, MapPin, Clock } from "lucide-react"
 
 export function ContactSection() {
   return (
